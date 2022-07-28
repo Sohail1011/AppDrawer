@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AppDrawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="list">List</string>
+    <string name="messages">Messages</string>
+    <string name="reports">Reports</string>
+    <string name="sing_out">Sing Out</string>
+    <string name="sohailiran_gmail_com">sohailiran@gmail.com</string>
+    <string name="sohail_iran_arata_valga">Sohail Iran Arata Valga</string>
+    <string name="student">Student</string>
+    <string name="rabbit">Rabbit</string>
+</resources>

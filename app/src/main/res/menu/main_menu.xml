@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/homeFragment"
+            android:icon="@drawable/ic_baseline_home_24"
+            android:title="@string/home" />
+        <item
+            android:id="@+id/messagesFragment"
+            android:icon="@drawable/ic_baseline_message_24"
+            android:title="@string/messages" />
+        <item
+            android:id="@+id/reportsFragment"
+            android:icon="@drawable/ic_baseline_report_24"
+            android:title="@string/reports" />
+    </group>
+
+    <item
+        android:id="@+id/signoutFragment"
+        android:icon="@drawable/ic_baseline_exit_to_app_24"
+        android:title="@string/sing_out" />
+
+</menu>

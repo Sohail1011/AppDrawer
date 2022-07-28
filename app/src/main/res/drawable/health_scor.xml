@@ -1,0 +1,15 @@
+<!-- drawable/health_scor.xml -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="362dp"
+    android:height="145dp"
+    android:viewportWidth="362"
+    android:viewportHeight="145">
+
+    <group>
+
+        <clip-path android:pathData="M0 0H362V145H0V0Z" />
+
+    </group>
+
+</vector>

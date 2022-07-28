@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppDrawer</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Inicio</string>
+    <string name="list">Lista</string>
+    <string name="messages">Mensajes</string>
+    <string name="reports">Reportes</string>
+    <string name="sing_out">Cerrar Sesión</string>
+    <string name="sohailiran_gmail_com">sohailiran@gmail.com</string>
+    <string name="sohail_iran_arata_valga">Sohail Iran Arata Valga</string>
+    <string name="student">Estudiante</string>
+    <string name="rabbit">Conejo</string>
+</resources>
